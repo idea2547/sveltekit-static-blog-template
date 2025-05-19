@@ -15,7 +15,7 @@
 
 <div class="container">
 	<Hero />
-	<About />
+	<!-- <About /> -->
 	{#if posts && posts.length > 0}
 		<RecentPosts {posts} />
 	{/if}

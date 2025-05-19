@@ -47,6 +47,7 @@
   "type": "module",
   "dependencies": {
     "@fontsource/inter": "^4.5.15",
+    "@fontsource/manrope": "^5.2.5",
     "@fontsource/merriweather": "^4.5.14",
     "@fontsource/ubuntu-mono": "^4.5.11"
   }
